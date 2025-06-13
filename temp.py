@@ -1,3 +1,1 @@
 print('temp')
-print('temp')
-
