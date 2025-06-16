@@ -1,0 +1,1 @@
+This repository is connected to Jenkins so that the Jenkins pipeline runs automatically whenever changes are pushed to the repository. Additionally, if the build fails, an email notification is sent out immediately afterward.
